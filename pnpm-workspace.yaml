@@ -1,0 +1,6 @@
+allowBuilds:
+  sharp: false
+  unrs-resolver: false
+overrides:
+  nextra>zod: 4.3.6
+  nextra-theme-docs>zod: 4.3.6
